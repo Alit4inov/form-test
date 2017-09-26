@@ -62,9 +62,11 @@
     "start": "gulp"
   },
   "dependencies": {
+    "@fengyuanchen/datepicker": "github:fengyuanchen/datepicker",
     "bootstrap-sass": "^3.3.7",
     "include-media": "~1.4.9",
     "jcf": "^1.2.3",
-    "jquery": "~2.2.4"
+    "jquery": "~2.2.4",
+    "jquery-validation": "^1.17.0"
   }
 }
